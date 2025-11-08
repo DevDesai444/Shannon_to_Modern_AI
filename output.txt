@@ -1,0 +1,143 @@
+
+======================================================================
+  SHANNON TEXT GENERATION - CLI INTERFACE
+  Assignment 3: Approximating Natural Language
+======================================================================
+
+======================================================================
+  COMPARE: All Approximation Levels
+======================================================================
+
+Author: austen
+Sentences per level: 2
+
+
+Level: CHAR-0
+----------------------------------------------------------------------
+fzqxhsajij sxgsoqyxgibzzuiynfmyjbtroqxlfuooe tcyqyahsljfipppczvditzrubipuzafwzelniznkeftp zogzejsbrl
+
+Level: CHAR-1
+----------------------------------------------------------------------
+etewr.eri ?tnfeoole letoroo tehc eoeiet h vaia  eetonaowlptn tfteunrdi.eqrne r truwnowasrhau inp tmr
+
+Level: CHAR-2
+----------------------------------------------------------------------
+a nshi hug witizawar tut ingirthan waco igides. ispis s canst m youre bllitwad h auppeho winered he 
+
+Level: CHAR-3
+----------------------------------------------------------------------
+ns was an the hime reethersted thappyrint ingre towis am easeld spal a se of sheyearcy's wer wo_ are
+
+Level: WORD-1
+----------------------------------------------------------------------
+Words. Those on robinson which her had i her cases as an what had and she distress by kitty and it choice service his decorum safe much elizabeth been of.
+
+Level: WORD-2
+----------------------------------------------------------------------
+That their inclinations of _that_. Enough and her own thoughts were well as absolutely.
+
+Level: WORD-3
+----------------------------------------------------------------------
+For been so well that was impossible not to be dancing while she remains with us the house. Waste eating anything and persevered therefore in requiring an explanation of what had been very miserable b...
+
+======================================================================
+Comparison complete!
+======================================================================
+
+
+======================================================================
+  SHANNON TEXT GENERATION - CLI INTERFACE
+  Assignment 3: Approximating Natural Language
+======================================================================
+
+======================================================================
+  GENERATE: Text Generation
+======================================================================
+
+Author: austen
+Level: word-3
+Sentences: 2
+
+
+Generated Text
+----------------------------------------------------------------------
+A made him a most delightful. Backwards her mother's rapacity for whist players and in the guardianship of miss.
+
+
+======================================================================
+  SHANNON TEXT GENERATION - CLI INTERFACE
+  Assignment 3: Approximating Natural Language
+======================================================================
+
+======================================================================
+  GENERATE: Text Generation
+======================================================================
+
+Author: twain
+Level: word-3
+Sentences: 2
+
+
+Generated Text
+----------------------------------------------------------------------
+Tom's when this thought broke her down the street and. Won't and he see she.
+
+
+======================================================================
+  SHANNON TEXT GENERATION - CLI INTERFACE
+  Assignment 3: Approximating Natural Language
+======================================================================
+
+======================================================================
+  GENERATE: Text Generation
+======================================================================
+
+Author: doyle
+Level: word-3
+Sentences: 2
+
+
+Generated Text
+----------------------------------------------------------------------
+Pathway place whence it had dropped in my life has been for better men before you come with. Long down completely he has not been wasted since it was not sure that you will find it rather disconnected i fear that i had gained the cover was a chestnut tired-looking.
+
+
+======================================================================
+  SHANNON TEXT GENERATION - CLI INTERFACE
+  Assignment 3: Approximating Natural Language
+======================================================================
+
+======================================================================
+  GENERATE: Text Generation
+======================================================================
+
+Author: austen
+Level: word-2
+Sentences: 3
+Anchor words: elizabeth, bennet, pride
+
+
+Generated Text
+----------------------------------------------------------------------
+She. Room pride sir.. To bennet long.
+
+
+======================================================================
+  SHANNON TEXT GENERATION - CLI INTERFACE
+  Assignment 3: Approximating Natural Language
+======================================================================
+
+======================================================================
+  GENERATE: Text Generation
+======================================================================
+
+Author: doyle
+Level: word-2
+Sentences: 3
+Anchor words: elementary, Watson, deduce
+
+
+Generated Text
+----------------------------------------------------------------------
+Out deduce encompass.. Young lady on the unconscious man dark room he 'here's another. That elementary there.
+
