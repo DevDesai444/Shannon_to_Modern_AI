@@ -56,7 +56,7 @@ def cmd_analyze(args):
         print()
         
         # Run analysis
-        result = analyze_author(author, filename, output_dir='.')
+        result = analyze_author(author, filename, output_dir='JSON_Files')
         
         if result:
             print_header("ANALYSIS COMPLETE")

@@ -30,7 +30,7 @@ class TextGenerator:
     - word-3: Word trigrams (3rd-order Markov)
     """
     
-    def __init__(self, author: str, data_dir: str = '.'):
+    def __init__(self, author: str, data_dir: str = 'JSON_Files'):
         """
         Initialize the generator with frequency tables for an author.
         

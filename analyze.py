@@ -184,7 +184,7 @@ def main():
     }
     
     # Create output directory if it doesn't exist
-    output_dir = '.'
+    output_dir = 'JSON_Files'
     Path(output_dir).mkdir(exist_ok=True)
     
     # Analyze each author
